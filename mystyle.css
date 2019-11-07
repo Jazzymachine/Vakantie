@@ -1,0 +1,20 @@
+
+h1 { 
+	color: #FE2E64; font-family: Fetamont}
+button {
+			border-radius: 12px;
+			padding: 14px 40px;
+			font-size: 16px;
+			color:  #FE2E64;
+			border: 2px solid #FE2E64;
+		}
+
+.Jazzy:hover {
+  -webkit-transform: scale(2,2);
+}
+.Jazzy {
+	border-radius: 8px;
+}
+
+
+
